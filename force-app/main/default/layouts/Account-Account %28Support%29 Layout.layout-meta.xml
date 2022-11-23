@@ -43,7 +43,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Custom_field__c</field>
+                <field>Custom_field1__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
